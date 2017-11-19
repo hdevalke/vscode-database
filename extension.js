@@ -54,6 +54,8 @@ function activate(context) {
 
     addCommand(context, 'extension.querySQL');
 
+    addCommand(context, 'extension.runCurrentFile');
+
 }
 exports.activate = activate;
 

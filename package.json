@@ -48,6 +48,10 @@
       {
         "command": "extension.saveConfig",
         "title": "SQL: Save current server"
+      },
+      {
+        "command": "extension.runCurrentFile",
+        "title": "SQL: Run current document"
       }
     ],
     "keybindings": [
